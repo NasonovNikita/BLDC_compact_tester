@@ -134,6 +134,9 @@
             <mxPoint x="380" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tyvSGJDkXdxiuV0By5Tb-30" value="DG408DY-T1-E3&lt;div&gt;multiplexor&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="210" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
