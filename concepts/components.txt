@@ -1,0 +1,9 @@
+RP2040 - microcontroller
+SN754410 - 4 half-H bridge driver (x2 = 8)
+DG408DY-T1-E3 - 8-pin analog multiplexor
+pct-218 - terminal block
+RP2040 (ADC) - voltmeter/amperemeter (through vo;tage divider)
+pam2421 - step-up power supply
+Omron G6K-2F-Y - relay
+battery socket
+a few buttons
