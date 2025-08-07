@@ -12,7 +12,7 @@ Sometimes you may not clearly know what are the pins of a BLDC motor used for. I
 So the purpose of this project is to make the process automized.
 
 ## Current goals
-- [x] Decide on working concept and components
+- [ ] Decide on working concept and components
 - [ ] Make an electrical scheme
 - [ ] Trace PCB
 - [ ] Write code
